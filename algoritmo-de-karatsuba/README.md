@@ -12,7 +12,7 @@ python main.py
 ## Funcionamento teorico 
 
 Na escola aprendemos que para para multiplicar dois números podemos fazer o seguinte processo:
-![multiplicação básica](/resources/multiplicacao_basica.png)
+![multiplicação básica](./resources/multiplicacao_basica.png)
 
 Mas e se pudessemos fazer isso de uma maneira diferente e mais rápida para números muito grandes? Foi isso que Anatoli Alexeievitch Karatsuba propôs. De maneira geral o algoritmo funciona da seguinte forma.
 
@@ -177,7 +177,7 @@ Finalmente, retornamos a soma final: $10^N \times X + 10^{N/2} \times (Z - X - Y
 ### Análise da complexidade ciclomática
 
 Dado a seguinte representação do grafo de fluxo
-![grafo de fluxo](/resources/grafo_de_fluxo.png)
+![grafo de fluxo](./resources/grafo_de_fluxo.png)
 
 Com base no grafo podemos calcular a complexidade ciclomática:
 
